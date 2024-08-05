@@ -10,6 +10,8 @@ background: '/assets/css/about.css?v='
 
 With a vision of developing ICT-proficient individuals, paving the way for their bright futures in the field of technology, and guiding them to make valuable contributions and innovations, the **BYTES** organization is dedicated to engaging its members with technology-driven platforms like robotics and analytics to enhance their technological skills, foster mastery of technology while emphasizing a primary specialization in technology.
 
+<br>
+
 **BYTES** is an accredited organization in [Far Eastern University High School](https://feuhighschool.edu.ph).
 
 <br>
