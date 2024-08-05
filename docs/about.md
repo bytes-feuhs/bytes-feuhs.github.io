@@ -4,31 +4,16 @@ title: "About Me"
 permalink: docs/about/
 background: '/assets/css/about.css?v='
 ---
-Hello there, I am NeKoRoSYS! You can call me Nekoro or Necro for short, or even Marky, I guess. ¯\_(ツ)_/¯
+**BYTES**, or ***"Brilliant, Young, and Technology-Empowered Students,"*** is a local high school organization founded on July 18, 2024 by students for students. It fosters an environment of innovation and collaboration, promotes technological literacy and excellence, and prepares us for future challenges.
 
-I am an aspiring graphic designer and game developer. I created this website for the sole purpose of providing a personal space for myself and my creations, that anyone interested can see!
+With a vision of developing ICT-proficient individuals, paving the way for their bright futures in the field of technology, and guiding them to make valuable contributions and innovations, the **BYTES** organization is dedicated to engaging its members with technology-driven platforms like robotics and analytics to enhance their technological skills, foster mastery of technology while emphasizing a primary specialization in technology.
+
+**BYTES** is an accredited organization in [Far Eastern University High School](https://feuhighschool.edu.ph).
 
 <br>
 
 ## Socials
 <hr>
-I have a [LinkTree]({{ site.linktree }}), but these are my most active social media accounts! (●´ω｀●)
--     <a href="{{ site.twitter }}" target="_blank">Twitter</a><br>
--     <a href="{{ site.youtube }}" target="_blank">YouTube</a><br>
--     <a href="{{ site.tiktok }}" target="_blank">TikTok</a>
-
-<br>
-
-## Business Inquiries
-<hr>
-In case you (or a friend) are looking for someone to work with, below are my portfolios where I often publish my work. I am a freelancer and I do paid commissions. If you are interested in working with me, I am always available on my [Twitter]({{ site.twitter }}) and Discord! ({{ site.discord }}) ヽ(゜∇゜)ノ
-### My Portfolios
--     <a href="{{ site.behance }}" target="_blank">Behance</a> - Graphic Designing<br>
--     <a href="{{ site.mcpedl }}" target="_blank">MCPEDL</a> - Minecraft: Bedrock Edition Add-on Development<br>
--     <a href="{{ site.github }}" target="_blank">GitHub</a> - Software and Game Development
-
-<br>
-
-## Buy me some Coffee!
-<hr>
-It'd be really appreciated if you support me by <a href="{{ site.kofi }}" target="_blank">buying me a cup of coffee</a>. This will help motivate myself to do better, provide services of better quality, and achieve goals from further beyond! (っ＾▿＾)っ
+Below are the only official social media accounts of BYTES, and nothing else:
+-     <a href="{{ site.facebook }}" target="_blank">Facebook</a><br>
+-     <a href="{{ site.instagram }}" target="_blank">Instagram</a><br>
