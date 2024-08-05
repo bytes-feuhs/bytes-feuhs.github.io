@@ -1,20 +1,12 @@
-title: NeKoRoSYS
-description: Hobbyist
+title: BYTES
+description: Official website of "Brillian, Young, and Technology-Empowered Students," an accredited organization in FEU High School.
 preview:
 categories:
   - Project
   - Blog
-  - Minecraft
   - Announcement
-linktree: https://linktr.ee/NeKoRoSYS
-github: https://github.com/NeKoRoSYS
-kofi: https://ko-fi.com/NeKoRoSYS#paypalModal
-twitter: https://twitter.com/NeKoRoSYS
-youtube: https://youtube.com/@NeKoRoSYS
-behance: https://behance.net/NeKoRoSYS
-tiktok: https://tiktok.com/@NeKoRoSYS
-mcpedl: https://mcpedl.com/user/nekorosys
-discord: "@NeKoRoSYS"
+facebook: https://www.facebook.com/profile.php?id=61563526641970
+instagram: https://www.instagram.com/feuhs.bytes_official/
 permalink: /:title/
 markdown: kramdown
 paginate: 5
