@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "My Blogs"
+title: "Blogs"
 permalink: blogs/
 ---
-[(Test Post) Happy New Year!!!](happy-new-year)
