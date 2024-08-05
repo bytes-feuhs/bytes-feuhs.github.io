@@ -1,0 +1,24 @@
+title: NeKoRoSYS
+description: Hobbyist
+preview:
+categories:
+  - Project
+  - Blog
+  - Minecraft
+  - Announcement
+linktree: https://linktr.ee/NeKoRoSYS
+github: https://github.com/NeKoRoSYS
+kofi: https://ko-fi.com/NeKoRoSYS#paypalModal
+twitter: https://twitter.com/NeKoRoSYS
+youtube: https://youtube.com/@NeKoRoSYS
+behance: https://behance.net/NeKoRoSYS
+tiktok: https://tiktok.com/@NeKoRoSYS
+mcpedl: https://mcpedl.com/user/nekorosys
+discord: "@NeKoRoSYS"
+permalink: /:title/
+markdown: kramdown
+paginate: 5
+paginate_path: "/:num/"
+show_downloads: false
+google_analytics:
+background: "/assets/css/home.css?v="
