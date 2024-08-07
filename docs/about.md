@@ -4,7 +4,7 @@ title: "About BYTES"
 permalink: docs/about/
 background: '/assets/css/about.css?v='
 ---
-**BYTES**, or ***"Brilliant, Young, and Technology-Empowered Students,"*** is a local organization in [FEU High School](https://feuhighschool.edu.ph) and was founded on July 18, 2024 by students for students. It fosters an environment of innovation and collaboration, promotes technological literacy and excellence, and prepares us for future challenges.
+**BYTES**, or ***"Brilliant, Young, and Technology-Empowered Students,"*** is a local organization in <a href="{{ site.feu }}" target="_blank">FEU High School</a> and was founded on July 18, 2024 by students for students. It fosters an environment of innovation and collaboration, promotes technological literacy and excellence, and prepares us for future challenges.
 
 <br>
 
@@ -12,7 +12,7 @@ With a vision of developing ICT-proficient individuals, paving the way for their
 
 <br>
 
-**BYTES** is an accredited organization in [Far Eastern University High School](https://feuhighschool.edu.ph).
+**BYTES** is an accredited organization in <a href="{{ site.feu }}" target="_blank">Far Eastern University High School</a>.
 
 <br>
 
