@@ -8,6 +8,8 @@ categories:
 feu: https://www.feuhighschool.edu.ph/
 facebook: https://www.facebook.com/feuhs.bytes/
 instagram: https://www.instagram.com/feuhs.bytes/
+thissite: https://www.bytes-feuhs.github.io/
+discord: https://discord.com/invite/hrnyrY4G8b
 permalink: /:title/
 markdown: kramdown
 paginate: 5
